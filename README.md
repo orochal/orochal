@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:A78BFA&height=250&section=header&text=Ana Rocha&fontSize=62&fontColor=F3F4F4&fontFamily=sans-serif&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20Multiplataforma&descAlignY=62&descSize=22" width="100%" alt="Banner Ana Luiza" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:A78BFA&height=250&section=header&text=Ana%20Rocha&fontSize=62&fontColor=F3F4F4&fontFamily=sans-serif&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20Multiplataforma&descAlignY=62&descSize=22" width="100%" alt="Banner Ana Rocha" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=3400&pause=1400&color=F3F4F4&center=true&vCenter=true&width=520&height=45&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;UI%2FUX+%26+Identidade+Visual;Software+Multiplataforma" alt="Typing Montserrat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=3400&pause=1400&color=AAAAAA&center=true&vCenter=true&width=520&height=45&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;UI%2FUX+%26+Identidade+Visual;Software+Multiplataforma" alt="Typing Montserrat" />
 </p>
 
 <p align="center">
