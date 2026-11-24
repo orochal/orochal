@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:A78BFA&height=250&section=header&text=orochal&fontSize=62&fontColor=F3F4F4&fontFamily=sans-serif&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20Multiplataforma&descAlignY=62&descSize=22" width="100%" alt="Banner Ana Luiza" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:A78BFA&height=250&section=header&text=Ana Rocha&fontSize=62&fontColor=F3F4F4&fontFamily=sans-serif&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20Multiplataforma&descAlignY=62&descSize=22" width="100%" alt="Banner Ana Luiza" />
 </p>
 
 <p align="center">
